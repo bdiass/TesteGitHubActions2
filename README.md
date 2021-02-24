@@ -1,4 +1,4 @@
-# mobx_fluterando
+# git_actions
 
 A new Flutter project.
 
